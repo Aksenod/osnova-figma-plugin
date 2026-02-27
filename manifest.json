@@ -1,0 +1,13 @@
+{
+  "name": "ОСНОВА",
+  "id": "1608168197779232638",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "documentAccess": "dynamic-page",
+  "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": ["https://fonts.googleapis.com", "https://fonts.gstatic.com"],
+    "reasoning": "Loading Space Mono font from Google Fonts for plugin UI"
+  }
+}
